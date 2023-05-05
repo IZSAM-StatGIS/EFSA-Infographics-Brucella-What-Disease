@@ -1,0 +1,86 @@
+{
+  "humans": {
+    "secondLevelItems": [
+      {"title": "Symptoms", "img": "images/icons/ic_symptoms.svg"},
+      {"title": "Who is at risk?", "img": "images/icons/ic_whois.svg"},
+      {"title": "Complications", "img": "images/icons/ic_complications.svg"}
+    ],
+    "symptoms": {
+      "backgroundImage": {
+        "src": "images/backgrounds/symptoms.svg"
+      },
+      "incubationPeriod": "From 1 week to 2 months (usually 2—4 week)",
+      "text": "",
+      "collection": [
+        {"name": "Fever", "abstract": "", "img": "images/icons/ic_fever.svg"},
+        {"name": "Weakness", "abstract": "", "img": "images/icons/ic_weak.svg"},
+        {"name": "Weight loss", "abstract": "", "img": "images/icons/ic_loss.svg"}
+      ]
+    },
+    "whois":{
+      "backgroundImage": {
+        "src": "images/backgrounds/whois.svg"
+      },
+      "text": "Brucellosis affects people of all ages and both sexes. It is considered an occupational hazard mainly for farmers, butchers, hunter, veterinarians and laboratory personnel.",
+      "collection": []
+    },
+    "complications":{
+      "backgroundImage": {
+        "src": "images/backgrounds/complications.svg"
+      },
+      "text": "These symptoms may persist for longer period of time:",
+      "collection": [
+        {"name": "Recurrent fevers", "abstract": "", "img": "images/icons/ic_recurrent_fever.svg"},
+        {"name": "Arthritis", "abstract": "", "img": "images/icons/ic_arthritis.svg"},
+        {"name": "Swelling of the testicle and scrotum area", "abstract": "", "img": "images/icons/ic_swelling_testicle.svg"},
+        {"name": "Swelling of the heart", "abstract": "Endocarditis", "img": "images/icons/ic_swelling_heart.svg"},
+        {"name": "Neurologic symptoms", "abstract": "", "img": "images/icons/ic_meningits.svg"},
+        {"name": "Chronic fatigue", "abstract": "", "img": "images/icons/ic_chronic_fatigue.svg"},
+        {"name": "Depression", "abstract": "", "img": "images/icons/ic_depression.svg"},
+        { "name": "Swelling of the liver and/or spleen", "abstract": "", "img": "images/icons/ic_swelling_liver.svg"}
+      ]
+    }
+  },
+  "animals": {
+    "secondLevelItems": [
+      {"title": "Symptoms", "img": "images/icons/ic_animal_symptoms.svg"},
+      {"title": "Who is at risk?", "img": "images/icons/ic_animals_whois.svg"},
+      {"title": "Complications", "img": "images/icons/ic_animals_complications.svg"}
+    ],
+    "symptoms": {
+      "backgroundImage": {
+        "src": "images/backgrounds/symptoms_animals.svg"
+      },
+      "incubationPeriod": "",
+      "text": "",
+      "collection": [
+        {"name": "Abortion", "abstract": "", "img": "images/icons/ic_a_abortion.svg"},
+        {"name": "Orchitis", "abstract": "", "img": "images/icons/ic_orchits.svg"},
+        {"name": "Epididymitis", "abstract": "", "img": "images/icons/ic_epididymitis.svg"}
+      ]
+    },
+    "whois":{
+      "backgroundImage": {
+        "src": "images/backgrounds/whois_animals.svg"
+      },
+      "text": "",
+      "collection": [
+        {"name": "Cattle", "abstract": "(B. abortus)", "img": "images/icons/ic_cow.svg"},
+        {"name": "Sheep and goats", "abstract": "(B. melitensis; B. ovis)", "img": "images/icons/ic_sheep_goat.svg"},
+        {"name": "Dogs", "abstract": "(B. canis)", "img": "images/icons/ic_pets_2.svg"},
+        {"name": "Domestic pigs", "abstract": "(B. suis)", "img": "images/icons/ic_swine.svg"}
+      ]
+    },
+    "complications":{
+      "backgroundImage": {
+        "src": "images/backgrounds/complications_animals.svg"
+      },
+      "text": "",
+      "collection": [
+        {"name": "Abortions", "abstract": "", "img": "images/icons/ic_a_abortion.svg"},
+        {"name": "Miscarriages", "abstract": "", "img": "images/icons/ic_abortion.svg"},
+        {"name": "Infertility", "abstract": "", "img": "images/icons/ic_infertility.svg"}
+      ]
+    }
+  }
+}
