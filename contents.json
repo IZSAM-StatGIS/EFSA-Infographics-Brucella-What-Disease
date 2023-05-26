@@ -14,15 +14,23 @@
       "collection": [
         {"name": "Fever", "abstract": "", "img": "images/icons/ic_fever.svg"},
         {"name": "Weakness", "abstract": "", "img": "images/icons/ic_weak.svg"},
-        {"name": "Weight loss", "abstract": "", "img": "images/icons/ic_loss.svg"}
+        {"name": "Weight loss", "abstract": "", "img": "images/icons/ic_loss.svg"},
+        {"name": "Anorexia", "abstract": "", "img": "images/icons/ic_anorexia.svg"},
+        {"name": "Joint or muscle pain", "abstract": "", "img": "images/icons/ic_joint pain.svg"},
+        {"name": "Headache", "abstract": "", "img": "images/icons/ic_headache.svg"}
       ]
     },
     "whois":{
       "backgroundImage": {
         "src": "images/backgrounds/whois.svg"
       },
-      "text": "Brucellosis affects people of all ages and both sexes. It is considered an occupational hazard mainly for farmers, butchers, hunter, veterinarians and laboratory personnel.",
-      "collection": []
+      "text": "Brucellosis affects people of all ages and both sexes. The most frequent species responsible for human infection is <i>B. melitensis</i>.",
+      "collection": [
+        {"name": "Farmers and artificial insemination technicians, dairy and rendering plants workers", "abstract": "", "img": "images/icons/ic_artificiasvg.svg"},
+        {"name": "Butchers, meat-packing employees, personnel in slaughterhouses", "abstract": "", "img": "images/icons/ic_butchers.svg"},
+        {"name": "Hunters", "abstract": "", "img": "images/icons/ic_hunter.svg"},
+        {"name": "Veterinarians and laboratory personnel", "abstract": "", "img": "images/icons/ic_veterinarias.svg"}
+      ]
     },
     "complications":{
       "backgroundImage": {
@@ -31,13 +39,13 @@
       "text": "These symptoms may persist for longer period of time:",
       "collection": [
         {"name": "Recurrent fevers", "abstract": "", "img": "images/icons/ic_recurrent_fever.svg"},
-        {"name": "Arthritis", "abstract": "", "img": "images/icons/ic_arthritis.svg"},
+        {"name": "Chronic Arthritis", "abstract": "", "img": "images/icons/ic_arthritis.svg"},
         {"name": "Swelling of the testicle and scrotum area", "abstract": "", "img": "images/icons/ic_swelling_testicle.svg"},
         {"name": "Swelling of the heart", "abstract": "Endocarditis", "img": "images/icons/ic_swelling_heart.svg"},
         {"name": "Neurologic symptoms", "abstract": "", "img": "images/icons/ic_meningits.svg"},
         {"name": "Chronic fatigue", "abstract": "", "img": "images/icons/ic_chronic_fatigue.svg"},
         {"name": "Depression", "abstract": "", "img": "images/icons/ic_depression.svg"},
-        { "name": "Swelling of the liver and/or spleen", "abstract": "", "img": "images/icons/ic_swelling_liver.svg"}
+        {"name": "Swelling of the liver and/or spleen", "abstract": "", "img": "images/icons/ic_swelling_liver.svg"}
       ]
     }
   },
@@ -54,9 +62,11 @@
       "incubationPeriod": "",
       "text": "",
       "collection": [
-        {"name": "Abortion", "abstract": "", "img": "images/icons/ic_a_abortion.svg"},
-        {"name": "Orchitis", "abstract": "", "img": "images/icons/ic_orchits.svg"},
-        {"name": "Epididymitis", "abstract": "", "img": "images/icons/ic_epididymitis.svg"}
+        {"name": "Abortion and stillbirth", "abstract": "", "img": "images/icons/ic_a_abortion.svg"},
+        {"name": "Retained placenta", "abstract": "", "img": "images/icons/ic_orchits.svg"},
+        {"name": "Birth of weak animals", "abstract": "", "img": "images/icons/ic_cow.svg"},
+        {"name": "Orchitis and epididymitis", "abstract": "", "img": "images/icons/ic_orchits.svg"},
+        {"name": "Infertility", "abstract": "", "img": "images/icons/ic_infertility.svg"}
       ]
     },
     "whois":{
@@ -65,10 +75,11 @@
       },
       "text": "",
       "collection": [
-        {"name": "Cattle", "abstract": "(B. abortus)", "img": "images/icons/ic_cow.svg"},
-        {"name": "Sheep and goats", "abstract": "(B. melitensis; B. ovis)", "img": "images/icons/ic_sheep_goat.svg"},
-        {"name": "Dogs", "abstract": "(B. canis)", "img": "images/icons/ic_pets_2.svg"},
-        {"name": "Domestic pigs", "abstract": "(B. suis)", "img": "images/icons/ic_swine.svg"}
+        {"name": "Cattle", "abstract": "(B. abortus; B. melitensis)", "img": "images/icons/ic_cow.svg"},
+        {"name": "Sheep and goats", "abstract": "(B. melitensis)", "img": "images/icons/ic_sheep_goat.svg"},
+        {"name": "Dogs", "abstract": "(B. canis; B. melitensis)", "img": "images/icons/ic_pets_2.svg"},
+        {"name": "Kept pigs", "abstract": "(B. suis)", "img": "images/icons/ic_swine.svg"},
+        {"name": "Horses", "abstract": "(B. abortus; B. suis)", "img": "images/icons/ic_horses.svg"}
       ]
     },
     "complications":{
@@ -77,9 +88,9 @@
       },
       "text": "",
       "collection": [
-        {"name": "Abortions", "abstract": "", "img": "images/icons/ic_a_abortion.svg"},
-        {"name": "Miscarriages", "abstract": "", "img": "images/icons/ic_abortion.svg"},
-        {"name": "Infertility", "abstract": "", "img": "images/icons/ic_infertility.svg"}
+        {"name": "Arthritis", "abstract": "", "img": "images/icons/ic_arthritis.svg"},
+        {"name": "Mastitis", "abstract": "", "img": "images/icons/ic_mastits.svg"},
+        {"name": "Oozing skin lesions “fistulous withers”", "abstract": "(horses)", "img": "images/icons/ic_oozing.svg"}
       ]
     }
   }
