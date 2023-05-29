@@ -26,7 +26,7 @@
       },
       "text": "Brucellosis affects people of all ages and both sexes. The most frequent species responsible for human infection is <i>B. melitensis</i>.",
       "collection": [
-        {"name": "Farmers and artificial insemination technicians, dairy and rendering plants workers", "abstract": "", "img": "images/icons/ic_artificiasvg.svg"},
+        {"name": "Farmers and artificial insemination technicians, dairy and rendering plants workers", "abstract": "", "img": "images/icons/ic_artificial.svg"},
         {"name": "Butchers, meat-packing employees, personnel in slaughterhouses", "abstract": "", "img": "images/icons/ic_butchers.svg"},
         {"name": "Hunters", "abstract": "", "img": "images/icons/ic_hunter.svg"},
         {"name": "Veterinarians and laboratory personnel", "abstract": "", "img": "images/icons/ic_veterinarias.svg"}
@@ -63,7 +63,7 @@
       "text": "",
       "collection": [
         {"name": "Abortion and stillbirth", "abstract": "", "img": "images/icons/ic_a_abortion.svg"},
-        {"name": "Retained placenta", "abstract": "", "img": "images/icons/ic_orchits.svg"},
+        {"name": "Retained placenta", "abstract": "", "img": "images/icons/ic_retained_placenta.svg"},
         {"name": "Birth of weak animals", "abstract": "", "img": "images/icons/ic_cow.svg"},
         {"name": "Orchitis and epididymitis", "abstract": "", "img": "images/icons/ic_orchits.svg"},
         {"name": "Infertility", "abstract": "", "img": "images/icons/ic_infertility.svg"}
