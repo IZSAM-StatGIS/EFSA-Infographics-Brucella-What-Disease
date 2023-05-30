@@ -75,11 +75,11 @@
       },
       "text": "",
       "collection": [
-        {"name": "Cattle", "abstract": "(B. abortus; B. melitensis)", "img": "images/icons/ic_cow.svg"},
-        {"name": "Sheep and goats", "abstract": "(B. melitensis)", "img": "images/icons/ic_sheep_goat.svg"},
-        {"name": "Dogs", "abstract": "(B. canis; B. melitensis)", "img": "images/icons/ic_pets_2.svg"},
-        {"name": "Kept pigs", "abstract": "(B. suis)", "img": "images/icons/ic_swine.svg"},
-        {"name": "Horses", "abstract": "(B. abortus; B. suis)", "img": "images/icons/ic_horses.svg"}
+        {"name": "Cattle", "abstract": "(<i>B. abortus</i>; <i>B. melitensis</i>)", "img": "images/icons/ic_cow.svg"},
+        {"name": "Sheep and goats", "abstract": "(<i>B. melitensis</i>)", "img": "images/icons/ic_sheep_goat.svg"},
+        {"name": "Dogs", "abstract": "(<i>B. canis</i>; <i>B. melitensis</i>)", "img": "images/icons/ic_pets_2.svg"},
+        {"name": "Kept pigs", "abstract": "(<i>B. suis</i>)", "img": "images/icons/ic_swine.svg"},
+        {"name": "Horses", "abstract": "(<i>B. abortus</i>; <i>B. suis</i>)", "img": "images/icons/ic_horses.svg"}
       ]
     },
     "complications":{
