@@ -14,10 +14,10 @@
       "collection": [
         {"name": "Fever", "abstract": "", "img": "images/icons/ic_fever.svg"},
         {"name": "Weakness", "abstract": "", "img": "images/icons/ic_weak.svg"},
-        {"name": "Weight loss", "abstract": "", "img": "images/icons/ic_loss.svg"},
         {"name": "Anorexia", "abstract": "", "img": "images/icons/ic_anorexia.svg"},
         {"name": "Joint or muscle pain", "abstract": "", "img": "images/icons/ic_joint pain.svg"},
-        {"name": "Headache", "abstract": "", "img": "images/icons/ic_headache.svg"}
+        {"name": "Headache", "abstract": "", "img": "images/icons/ic_headache.svg"},
+        {"name": "Weight loss", "abstract": "", "img": "images/icons/ic_loss.svg"}
       ]
     },
     "whois":{
@@ -60,7 +60,7 @@
         "src": "images/backgrounds/symptoms_animals.svg"
       },
       "incubationPeriod": "",
-      "text": "",
+      "text": "Typically, the disease is mild, with the infected animals showing few symptoms until reproductive disorders appear.",
       "collection": [
         {"name": "Abortion and stillbirth", "abstract": "", "img": "images/icons/ic_a_abortion.svg"},
         {"name": "Retained placenta", "abstract": "", "img": "images/icons/ic_retained_placenta.svg"},
@@ -75,10 +75,10 @@
       },
       "text": "",
       "collection": [
-        {"name": "Cattle", "abstract": "(<i>B. abortus</i>; <i>B. melitensis</i>)", "img": "images/icons/ic_cow.svg"},
+        {"name": "Cattle", "abstract": "(<i>B. abortus</i>; <i>B. melitensis</i>; <i>B. suis</i>)", "img": "images/icons/ic_cow.svg"},
         {"name": "Sheep and goats", "abstract": "(<i>B. melitensis</i>)", "img": "images/icons/ic_sheep_goat.svg"},
-        {"name": "Dogs", "abstract": "(<i>B. canis</i>; <i>B. melitensis</i>)", "img": "images/icons/ic_pets_2.svg"},
-        {"name": "Kept pigs", "abstract": "(<i>B. suis</i>)", "img": "images/icons/ic_swine.svg"},
+        {"name": "Dogs", "abstract": "(<i>B. canis</i>; <i>B. melitensis</i>; <i>B. suis</i>)", "img": "images/icons/ic_pets_2.svg"},
+        {"name": "Domestic pigs", "abstract": "(<i>B. suis</i>)", "img": "images/icons/ic_swine.svg"},
         {"name": "Horses", "abstract": "(<i>B. abortus</i>; <i>B. suis</i>)", "img": "images/icons/ic_horses.svg"}
       ]
     },
